@@ -32,6 +32,7 @@
 - [database](#database)
 - [deno](#deno)
 - [deployment](#deployment)
+- [design](#design)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -289,6 +290,10 @@
 ## deployment 
 
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
+
+## design 
+
+- [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
 ## devops 
 
@@ -764,6 +769,8 @@
 
 ## others 
 
+- [zeokku/glsl.app](https://github.com/zeokku/glsl.app) - 🌅 Modern WebGL GLSL Shaders Editor
+- [gamemcu/www-genshin](https://github.com/gamemcu/www-genshin) - 
 - [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
