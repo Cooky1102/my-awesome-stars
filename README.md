@@ -249,6 +249,10 @@
 
 ## TypeScript 
 
+- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
+- [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/
+- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [gamemcu/www-genshin](https://github.com/gamemcu/www-genshin) - 
