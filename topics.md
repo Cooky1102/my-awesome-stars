@@ -133,7 +133,7 @@
 
 ## 3d 
 
-- [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/
+- [lewhunt/divz](https://github.com/lewhunt/divz) - A React 3D slider component that lets you scroll, swipe & zoom through HTML content on the z-axis. Try out the demos here: https://lewhunt.github.io/divz/
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [rajput-hemant/threejs-journey](https://github.com/rajput-hemant/threejs-journey) - Three.js Journey - Practice projects w/ source-code for Three.js course by Bruno Simon
@@ -892,7 +892,7 @@
 ## react 
 
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
-- [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/
+- [lewhunt/divz](https://github.com/lewhunt/divz) - A React 3D slider component that lets you scroll, swipe & zoom through HTML content on the z-axis. Try out the demos here: https://lewhunt.github.io/divz/
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
@@ -1178,7 +1178,7 @@
 ## typescript 
 
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
-- [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/
+- [lewhunt/divz](https://github.com/lewhunt/divz) - A React 3D slider component that lets you scroll, swipe & zoom through HTML content on the z-axis. Try out the demos here: https://lewhunt.github.io/divz/
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
