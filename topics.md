@@ -305,7 +305,7 @@
 
 ## design 
 
-- [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 快图-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+- [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
 ## devops 
 
@@ -789,6 +789,7 @@
 
 ## others 
 
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [zeokku/glsl.app](https://github.com/zeokku/glsl.app) - 🌅 Modern WebGL GLSL Shaders Editor
 - [gamemcu/www-genshin](https://github.com/gamemcu/www-genshin) - 
