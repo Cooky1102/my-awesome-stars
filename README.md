@@ -258,7 +258,7 @@
 
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
-- [lewhunt/divz](https://github.com/lewhunt/divz) - DIVZ is a React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. It offers simplified integration, diverse applications & broad device support. Ideal to showcase you
+- [lewhunt/divz](https://github.com/lewhunt/divz) - DIVZ is a React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Ideal for showcasing your portfolio work or product listings. Try out the demos here: https://lewhun
 - [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
