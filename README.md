@@ -42,6 +42,7 @@
 
 ## C++ 
 
+- [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## CSS 
@@ -82,6 +83,7 @@
 
 ## JavaScript 
 
+- [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
@@ -257,6 +259,7 @@
 
 ## TypeScript 
 
+- [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [mesqueeb/is-what](https://github.com/mesqueeb/is-what) - JS type check (TypeScript supported) functions like `isPlainObject() isArray()` etc. A simple & small integration.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
