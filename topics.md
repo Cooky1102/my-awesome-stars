@@ -122,6 +122,7 @@
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
@@ -546,7 +547,6 @@
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [mesqueeb/is-what](https://github.com/mesqueeb/is-what) - JS type check (TypeScript supported) functions like `isPlainObject() isArray()` etc. A simple & small integration.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -946,7 +946,6 @@
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
-- [jeromedalbert/real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
@@ -1222,6 +1221,26 @@
 ## swift 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+
+## tailwindcss 
+
+- [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
+- [GetStream/discord-clone-nextjs](https://github.com/GetStream/discord-clone-nextjs) - Building a discord clone using NextJS, TailwindCSS, and the Stream Chat and Audio and Video SDKs.
+- [huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind CSS components in one line ✨
+- [justboil/admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free React Next Tailwind 3.x admin dashboard template with typescript and dark mode.
+- [robbins23/daisyui-admin-dashboard-template](https://github.com/robbins23/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
 ## terminal 
 
