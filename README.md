@@ -206,7 +206,6 @@
 ## MDX 
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 
 ## Makefile 
 
@@ -287,7 +286,7 @@
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [GetStream/discord-clone-nextjs](https://github.com/GetStream/discord-clone-nextjs) - Building a discord clone using NextJS, TailwindCSS, and the Stream Chat and Audio and Video SDKs.
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
@@ -408,6 +407,7 @@
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
