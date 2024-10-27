@@ -85,6 +85,7 @@
 
 ## JavaScript 
 
+- [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [ringcentral/ringcentral-javascript](https://github.com/ringcentral/ringcentral-javascript) - JavaScript Style Guide
 - [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.
 - [bumbu/svg-pan-zoom](https://github.com/bumbu/svg-pan-zoom) - JavaScript library that enables panning and zooming of an SVG in an HTML document, with mouse events or custom JavaScript hooks
