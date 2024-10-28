@@ -236,7 +236,7 @@
 
 ## Python 
 
-- [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based PDF chunking
+- [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [BadToBest/EchoMimic](https://github.com/BadToBest/EchoMimic) - Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
