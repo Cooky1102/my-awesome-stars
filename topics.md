@@ -931,6 +931,7 @@
 
 ## others 
 
+- [midday-ai/languine](https://github.com/midday-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [unjs/unhead](https://github.com/unjs/unhead) - Unhead is the any-framework document head manager built for performance and delightful developer experience.
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
