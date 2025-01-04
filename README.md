@@ -38,6 +38,7 @@
 
 ## C# # 
 
+- [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 - [kvakulo/Switcheroo](https://github.com/kvakulo/Switcheroo) - The humble incremental-search task switcher for Windows
 
 ## C++ 
@@ -269,6 +270,7 @@
 
 ## TypeScript 
 
+- [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [midday-ai/languine](https://github.com/midday-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
