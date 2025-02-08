@@ -271,6 +271,8 @@
 
 ## TypeScript 
 
+- [yaakua/ai-outpainting-com](https://github.com/yaakua/ai-outpainting-com) - AI Outpainting (AI扩图)网站源码
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
