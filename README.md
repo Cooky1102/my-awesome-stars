@@ -246,6 +246,7 @@
 
 ## Rust 
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
