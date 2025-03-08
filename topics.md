@@ -151,7 +151,7 @@
 
 ## 3d 
 
-- [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe and zoom through content on the 3D z-axis. Ideal to showcase your portfolio, media or products. Try out the demos here: https://lewhunt.github.io/divz/
+- [lewhunt/divz](https://github.com/lewhunt/divz) - A 3D slider component that lets you scroll, swipe and zoom through content on the z-axis. Ideal to showcase your portfolio, media or products. Try out the demos here: https://lewhunt.github.io/divz/
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [rajput-hemant/threejs-journey](https://github.com/rajput-hemant/threejs-journey) - Three.js Journey - Practice projects w/ source-code for Three.js course by Bruno Simon
@@ -953,6 +953,7 @@
 
 ## others 
 
+- [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [yaakua/ai-outpainting-com](https://github.com/yaakua/ai-outpainting-com) - AI Outpainting (AI扩图)网站源码
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
@@ -1099,7 +1100,7 @@
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
-- [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe and zoom through content on the 3D z-axis. Ideal to showcase your portfolio, media or products. Try out the demos here: https://lewhunt.github.io/divz/
+- [lewhunt/divz](https://github.com/lewhunt/divz) - A 3D slider component that lets you scroll, swipe and zoom through content on the z-axis. Ideal to showcase your portfolio, media or products. Try out the demos here: https://lewhunt.github.io/divz/
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
@@ -1451,7 +1452,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
-- [lewhunt/divz](https://github.com/lewhunt/divz) - A React component that lets you scroll, swipe and zoom through content on the 3D z-axis. Ideal to showcase your portfolio, media or products. Try out the demos here: https://lewhunt.github.io/divz/
+- [lewhunt/divz](https://github.com/lewhunt/divz) - A 3D slider component that lets you scroll, swipe and zoom through content on the z-axis. Ideal to showcase your portfolio, media or products. Try out the demos here: https://lewhunt.github.io/divz/
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
