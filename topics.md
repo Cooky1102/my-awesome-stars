@@ -1537,6 +1537,7 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
