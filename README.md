@@ -269,6 +269,7 @@
 
 ## TypeScript 
 
+- [ygwyg/diverce](https://github.com/ygwyg/diverce) - vercel nextjs -&gt; cloudflare workers
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing) - Share your screen with one simple room code. No downloads or sign-ups required.
