@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dozoisch/react-google-recaptcha](https://github.com/dozoisch/react-google-recaptcha) - Component wrapper for Google reCAPTCHA
