@@ -76,7 +76,7 @@
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 
@@ -277,6 +277,7 @@
 
 ## TypeScript 
 
+- [react-chatbotify/react-chatbotify](https://github.com/react-chatbotify/react-chatbotify) - A modern React library for creating flexible and extensible chatbots.
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) - File uploader built with shadcn/ui and Radix UI.
 - [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager) - A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from y
 - [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit) - 🤖 Beautifully designed chatbot components based on shadcn/ui
