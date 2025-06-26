@@ -277,6 +277,7 @@
 
 ## TypeScript 
 
+- [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails and control subdomains—all on one platform.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [react-chatbotify/react-chatbotify](https://github.com/react-chatbotify/react-chatbotify) - A modern React library for creating flexible and extensible chatbots.
 - [sadmann7/file-uploader](https://github.com/sadmann7/file-uploader) - File uploader built with shadcn/ui and Radix UI.
