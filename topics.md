@@ -38,6 +38,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [django](#django)
@@ -387,6 +388,10 @@
 ## design 
 
 - [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+
+## developer-tools 
+
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## development 
 
@@ -880,7 +885,7 @@
 ## nextjs 
 
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit) - 🤖 Beautifully designed chatbot components based on shadcn/ui
@@ -1164,7 +1169,7 @@
 ## react 
 
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [react-chatbotify/react-chatbotify](https://github.com/react-chatbotify/react-chatbotify) - A modern React library for creating flexible and extensible chatbots.
 - [Blazity/shadcn-chatbot-kit](https://github.com/Blazity/shadcn-chatbot-kit) - 🤖 Beautifully designed chatbot components based on shadcn/ui
@@ -1504,7 +1509,7 @@
 ## tailwindcss 
 
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
@@ -1544,7 +1549,7 @@
 ## typescript 
 
 - [dahlia/upyo](https://github.com/dahlia/upyo) - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [react-chatbotify/react-chatbotify](https://github.com/react-chatbotify/react-chatbotify) - A modern React library for creating flexible and extensible chatbots.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
