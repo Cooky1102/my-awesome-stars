@@ -28,6 +28,7 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [css](#css)
 - [dart](#dart)
 - [data](#data)
@@ -311,6 +312,10 @@
 ## cpp 
 
 - [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+
+## crawler 
+
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 
 ## css 
 
