@@ -556,7 +556,6 @@
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
-- [mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
