@@ -144,7 +144,6 @@
 - [prose/gatekeeper](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
@@ -425,6 +424,7 @@
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [thkruz/ootk-core](https://github.com/thkruz/ootk-core) - 🛰️Orbital Object Toolkit Core. A modern typed replacement for satellite.js including SGP4 propagation, TLE parsing, Sun and Moon calculations, and more.
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js) - 🌞 A lightweight JavaScript library that generates customizable heat maps, charts, and statistics to visualize date-based activity and trends.
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [react-component/table](https://github.com/react-component/table) - React Table
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
