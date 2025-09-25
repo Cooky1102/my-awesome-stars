@@ -24,6 +24,7 @@
 - [chatgpt](#chatgpt)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [cpp](#cpp)
@@ -294,6 +295,10 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
+
+## cloud 
+
+- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 
 ## compiler 
 
@@ -577,6 +582,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin + i18n API for Next.js 🌍  -  Load page translations and use them in an easy way!
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -1094,7 +1100,6 @@
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
-- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [weijunext/nextjs-learn-demos](https://github.com/weijunext/nextjs-learn-demos) - Sharing Technologies in the Next.js Ecosystem.
 - [pmndrs/threejs-journey](https://github.com/pmndrs/threejs-journey) - ⚛️  Bruno Simons journey demos in React
