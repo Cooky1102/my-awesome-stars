@@ -20,7 +20,6 @@
 - [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Others](#others)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -243,10 +242,6 @@
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 
-## PowerShell 
-
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-
 ## Python 
 
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -284,6 +279,7 @@
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [dahlia/upyo](https://github.com/dahlia/upyo) - Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions.
 - [AmyangXYZ/PoPo](https://github.com/AmyangXYZ/PoPo) - Pose and animate MMD model with LLM
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
