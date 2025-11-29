@@ -858,7 +858,7 @@
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 - [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, JSX, HTML, and more!
+- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, React, React Native, HTML, and more!
 - [Ionaru/easy-markdown-editor](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor) - React wrapper for simplemde (easymde) markdown editor
 
@@ -1279,7 +1279,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select) - 🌐 An extremely usable and dynamic React timezone selector
-- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, JSX, HTML, and more!
+- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, React, React Native, HTML, and more!
 - [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery) - A set of graph examples showing how to make react and d3.js work together
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
