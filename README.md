@@ -89,6 +89,7 @@
 
 ## JavaScript 
 
+- [RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual) - 解锁所有国内媒体流的钥匙
 - [dogchild/api-cf](https://github.com/dogchild/api-cf) - 简易cloudflare反代大陆无法直连的大模型api
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
