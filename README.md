@@ -179,6 +179,7 @@
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [floating-ui/react-popper](https://github.com/floating-ui/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [reduxjs/redux-mock-store](https://github.com/reduxjs/redux-mock-store) - A mock store for testing Redux async action creators and middleware.
 - [ZijianHe/koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
@@ -502,7 +503,6 @@
 - [kirill-konshin/next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper) - Redux wrapper for Next.js
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
