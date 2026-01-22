@@ -313,7 +313,7 @@
 
 ## clash 
 
-- [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
+- [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ## cli 
@@ -881,7 +881,7 @@
 
 ## macos 
 
-- [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
+- [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -1588,7 +1588,7 @@
 
 ## swiftui 
 
-- [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
+- [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 
 ## tailwind 
 
