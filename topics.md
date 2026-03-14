@@ -96,6 +96,7 @@
 - [json](#json)
 - [koa](#koa)
 - [language](#language)
+- [laravel](#laravel)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -865,6 +866,10 @@
 ## language 
 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+## laravel 
+
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ## library 
 
