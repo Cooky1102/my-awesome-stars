@@ -1432,6 +1432,7 @@
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
@@ -1516,6 +1517,7 @@
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering, formatting and validating international telephone numbers. Includes TypeScript definitions, plus React, Vue, Angular and Svelte components.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -1853,7 +1855,7 @@
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
