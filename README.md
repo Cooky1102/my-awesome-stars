@@ -26,7 +26,6 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
-- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -263,7 +262,7 @@
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) - Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
@@ -293,10 +292,6 @@
 ## Svelte 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
-## Swift 
-
-- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 
 ## TypeScript 
 
@@ -466,6 +461,7 @@
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [gregberge/twc](https://github.com/gregberge/twc) - Create reusable React + Tailwind CSS components in one line ✨
 - [schedule-x/schedule-x](https://github.com/schedule-x/schedule-x) - JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.
 - [thkruz/ootk-core](https://github.com/thkruz/ootk-core) - 🛰️Orbital Object Toolkit Core. A modern typed replacement for satellite.js including SGP4 propagation, TLE parsing, Sun and Moon calculations, and more.
