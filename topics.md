@@ -347,10 +347,13 @@
 
 ## claude-code 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 
 ## cli 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -472,6 +475,8 @@
 
 ## developer-tools 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ## development 
@@ -906,6 +911,7 @@
 
 ## llm 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -978,6 +984,7 @@
 
 ## mobile 
 
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
@@ -1128,6 +1135,7 @@
 
 ## open-source 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
@@ -1297,6 +1305,7 @@
 
 ## productivity 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [dteoh/SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
 
@@ -1570,6 +1579,7 @@
 
 ## rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
