@@ -83,7 +83,6 @@
 - [graphql](#graphql)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
-- [haskell](#haskell)
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [html-css-javascript](#html-css-javascript)
@@ -706,10 +705,6 @@
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-
-## haskell 
-
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 
 ## home-assistant 
 
