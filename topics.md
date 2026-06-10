@@ -250,7 +250,7 @@
 - [obytes/react-native-template-obytes](https://github.com/obytes/react-native-template-obytes) - 📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
@@ -592,7 +592,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
@@ -751,7 +751,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
@@ -855,7 +855,7 @@
 - [testing-library/jest-dom](https://github.com/testing-library/jest-dom) - :owl: Custom jest matchers to test the state of the DOM
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
@@ -908,7 +908,7 @@
 
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 ## linux 
 
@@ -993,7 +993,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -1416,7 +1416,7 @@
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
@@ -1501,7 +1501,7 @@
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
@@ -1527,7 +1527,7 @@
 - [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
 - [zoontek/react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - 🚀 Show a splash screen during app startup. Hide it when you are ready.
 - [thecodingmachine/react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) - A React Native template for building solid applications 🐙, using JavaScript 💛 or Typescript 💙 (you choose).
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [react-native-maps/react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
@@ -1848,7 +1848,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 
