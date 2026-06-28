@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -201,6 +202,13 @@
 
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
+
+## agent-skills 
+
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen
+- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 
 ## agents 
 
@@ -1176,7 +1184,6 @@
 
 ## others 
 
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
@@ -1184,7 +1191,6 @@
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) - Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Hipepper/SecTech-Vis](https://github.com/Hipepper/SecTech-Vis) - 一个可视化安全技术与能力的知识分享平台
