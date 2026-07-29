@@ -64,6 +64,7 @@
 
 ## Go 
 
+- [Amamiyashi0n/ctyun_keepalive](https://github.com/Amamiyashi0n/ctyun_keepalive) - 天翼云电脑保活脚本
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
