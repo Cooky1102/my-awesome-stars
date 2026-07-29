@@ -1195,6 +1195,7 @@
 
 ## others 
 
+- [Amamiyashi0n/ctyun_keepalive](https://github.com/Amamiyashi0n/ctyun_keepalive) - 天翼云电脑保活脚本
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [fmhy/FMHY](https://github.com/fmhy/FMHY) - https://fmhy.net/
