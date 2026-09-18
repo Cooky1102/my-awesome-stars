@@ -1205,6 +1205,7 @@
 
 ## others 
 
+- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - [Amamiyashi0n/ctyun_keepalive](https://github.com/Amamiyashi0n/ctyun_keepalive) - 天翼云电脑保活脚本
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
