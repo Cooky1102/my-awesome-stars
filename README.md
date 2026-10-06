@@ -419,7 +419,7 @@
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [SortableJS/react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React bindings for SortableJS
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
-- [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
+- [wcandillon/react-native-skia](https://github.com/wcandillon/react-native-skia) - High-performance React Native Graphics using Skia
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.
@@ -444,7 +444,7 @@
 - [react-native-community/hooks](https://github.com/react-native-community/hooks) - React Native APIs turned into React Hooks for use in functional React components
 - [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [mosh-hamedani/issue-tracker](https://github.com/mosh-hamedani/issue-tracker) - 
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
