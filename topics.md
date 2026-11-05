@@ -301,7 +301,7 @@
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
-- [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive
+- [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive, the agent-native 2D and 3D engine for games, apps, and interactive UI.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
@@ -1243,7 +1243,7 @@
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) - Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [Hipepper/SecTech-Vis](https://github.com/Hipepper/SecTech-Vis) - 一个可视化安全技术与能力的知识分享平台
 - [RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual) - 仓库已停止维护
@@ -1483,7 +1483,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 - [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
-- [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive
+- [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive, the agent-native 2D and 3D engine for games, apps, and interactive UI.
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
