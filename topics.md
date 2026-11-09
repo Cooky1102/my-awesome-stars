@@ -492,7 +492,7 @@
 
 ## data-analysis 
 
-- [DaguPyz/light-chaser](https://github.com/DaguPyz/light-chaser) - light chaser is a lightweight data visualization designer tool
+- [DaguPyz/DataVisool](https://github.com/DaguPyz/DataVisool) - light chaser is a lightweight data visualization designer tool
 
 ## data-structures 
 
@@ -501,7 +501,7 @@
 ## data-visualization 
 
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-- [DaguPyz/light-chaser](https://github.com/DaguPyz/light-chaser) - light chaser is a lightweight data visualization designer tool
+- [DaguPyz/DataVisool](https://github.com/DaguPyz/DataVisool) - light chaser is a lightweight data visualization designer tool
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
@@ -864,7 +864,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.
 - [dominictobias/react-image-crop](https://github.com/dominictobias/react-image-crop) - A responsive image cropping tool for React
-- [DaguPyz/light-chaser](https://github.com/DaguPyz/light-chaser) - light chaser is a lightweight data visualization designer tool
+- [DaguPyz/DataVisool](https://github.com/DaguPyz/DataVisool) - light chaser is a lightweight data visualization designer tool
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [jakubfiala/atrament](https://github.com/jakubfiala/atrament) - A small JS library for beautiful drawing and handwriting on the HTML Canvas.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -1867,7 +1867,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [DaguPyz/light-chaser](https://github.com/DaguPyz/light-chaser) - light chaser is a lightweight data visualization designer tool
+- [DaguPyz/DataVisool](https://github.com/DaguPyz/DataVisool) - light chaser is a lightweight data visualization designer tool
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - React Native UI library built on the Eva Design System: 30+ themeable, accessible components for iOS, Android and web. TypeScript, React 19 / RN 0.81, Eva and Material themes with runtime light/dark s
