@@ -423,7 +423,7 @@
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 - [mbaxszy7/music-motion-x](https://github.com/mbaxszy7/music-motion-x) - 用React 18 SSR实现的仿MOO音乐风格的音乐网站
-- [DaguPyz/DataVisool](https://github.com/DaguPyz/DataVisool) - light chaser is a lightweight data visualization designer tool
+- [DaguPyz/DataVisool](https://github.com/DaguPyz/DataVisool) - A browser-based designer for dashboards and data visualizations.
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
